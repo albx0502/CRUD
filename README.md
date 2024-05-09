@@ -9,3 +9,6 @@ apellidos varchar(50),
 sexo varchar(30)
 )
 Ademas deberas usar el comando de Python pip en la linea de comandos para instalar los paquetes de mysql-connector y tkinter, usando el comando pip install nombre_del_paquete.
+
+
+Tambien podras encontrar un ejercicio CRUD hecho con MongoDB en vez de Mysql. La aplicacion se ejecuta en una pagina web y en el codigo tendras que conectar tu propia base de datos hecha iniciando sesion en la pagina de MongoDB Atlas y desde ahi se explicara que codigo tienes que introducir para conectar tu propia base de datos.
